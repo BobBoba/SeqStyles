@@ -1,6 +1,5 @@
-# SeqStyles
-Styles for Seq for better looking, for different purposes
+# Style for Seq
 
-After a hile I noticed that I need more tight style for my Seq instance. I have many columns to show.
+After a while I noticed that I need tighter style for my Seq instance as I have many columns to show.
 
 ![example](https://github.com/BobBoba/SeqStyles/blob/master/2019-10-03%2015%2010%2008.png)
