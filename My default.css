@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto+Condensed|Fira+Sans+Extra+Condensed|Yanone+Kaffeesatz&display=swap');
+
+.tagged-properties .property-name  {font-family: 'Yanone Kaffeesatz' !important;}
+.rendered-message {font-family: 'Fira Sans Extra Condensed' !important;}
+
+.stream-view .content {
+    padding-left: 0px;
+    padding-right: 10px;
+}
+.event .description {
+    padding-left: 140px;
+}
+
+.timestamp  {font-family: 'Roboto Condensed' !important;}
+
+.event .timestamp {
+    width: 113px;
+}
+
+.event-timestamp {
+    font-size: 10px;
+}
+
+.event-properties .property-value {
+    font-family: Roboto, Consolas,Monaco,monospace;
+}
+
+.event-properties .property .property-name {
+    font-family: Roboto,Consolas,Monaco,monospace;
+}
+
+.event .description {
+    padding-left: 95px;
+}
+
+.token {
+    background-color: #fcfad9 !important;
+}
+
+.level-indicator {
+    width: 5px;
+    height: 12px;
+    border-radius: 2px;
+    margin-right: 1px;
+}
