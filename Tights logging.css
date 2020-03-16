@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto+Mono|Roboto+Condensed|Fira+Sans+Extra+Condensed|Yanone+Kaffeesatz&display=swap');
 
 .tagged-properties .property-name  {font-family: 'Yanone Kaffeesatz' !important;}
-
 .rendered-message {font-family: 'Fira Sans Extra Condensed' !important;}
 
 .stream-view .content {
@@ -12,7 +11,7 @@
     padding-left: 140px;
 }
 
-.timestamp  {font-family: 'Roboto Condensed' !important;}
+.timestamp, .exception {font-family: 'Roboto Condensed' !important;}
 
 .event .timestamp {
     width: 113px;
